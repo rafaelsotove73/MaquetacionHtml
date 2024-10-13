@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#contenedor{
+    width: 1200px;
+    height: 1000px;
+    background: #D8D8D8;
+    margin: 0.5em auto;
+    padding: 0.5em;
+}
+
+#header{
+    height: 20%;
+    background: #A4A4A4;
+    border-radius: 1em;
+    margin: 1em;
+}
+
+#nav {
+    height: 10%;
+    background: #424242;
+    border-radius: 1em;
+    margin: 1em;
+    
+}
+#contenido {
+    height: 53%;
+    background: #FFFFFF;
+    margin: 1em;
+}
+
+#footer{
+    height: 10%;
+    background: #424242;
+    border-radius: 1em;
+    margin: 1em;
+}
+
+#section{
+    height: 95%;
+    width: 71%;
+    background: #A4A4A4;
+    border-radius: 1em;
+    float: left;
+    margin: 0.5em;
+}
+
+#section-v1{
+    height: 95%;
+    width: 71%;
+    background: #A4A4A4;
+    border-radius: 1em;
+    float: right;
+    margin: 0.5em;
+}
+#section-v2{
+    height: 95%;
+    width: 98%;
+    background: #A4A4A4;
+    border-radius: 1em;
+    float: right;
+    margin: 0.5em;
+}
+#aside {
+    height: 95%;
+    width: 26%;
+    background: #A4A4A4;
+    border-radius: 1em;
+    float: right;
+    margin: 0.5em;
+}
+
+#aside-v1 {
+    height: 95%;
+    width: 26%;
+    background: #A4A4A4;
+    border-radius: 1em;
+    float: left;
+    margin: 0.5em;
+}
+
+.articulo {
+    width: 95%;
+    height: 20%;
+    background: #424242;
+    margin: 1em;
+    border-radius: 1em;
+}
+
+.articulo-v1 {
+    width: 95%;
+    height: 28%;
+    background: #a77105;
+    margin: 1em;
+    border-radius: 1em;
+}
+.articulo-v2 {
+    display: inline-block;
+    vertical-align: top;
+    background: #a77105;
+    width: 28%; /* Ancho de cada artículo, ajusta según necesites */
+    height: 95%;
+    margin-right: 10px; /* Margen derecho entre los artículos, ajusta según necesites */
+    border-radius: 1em;
+    margin: 1em;
+}
+
+.articulo-v3 {
+    display: inline-block;
+    vertical-align: top;
+    background: #a77105;
+    width: 45%; /* Ancho de cada artículo, ajusta según necesites */
+    height: 45%;
+    margin-right: 10px; /* Margen derecho entre los artículos, ajusta según necesites */
+    border-radius: 1em;
+    margin: 1em;
+}
+
+.articulo-v4 {
+    display: inline-block;
+    vertical-align: bottom;
+    background: #a77105;
+    width: 45%; /* Ancho de cada artículo, ajusta según necesites */
+    height: 43%;
+    margin-right: 10px; /* Margen derecho entre los artículos, ajusta según necesites */
+    border-radius: 1em;
+    margin: 1em;
+}
+
+
+
